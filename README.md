@@ -54,3 +54,26 @@ Alınan kararlar: Oyunda karakter tasarımında güncellemeye gidilmesi karar ve
   - Takım görev dağılımları hakkında konuşuldu
   - İNAKTİF olan takım arkadaşlarından geri dönüş alınamadığı için iki kişi olarak projeye devam etme kararı alınmıştır.
  
+# SPRINT 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrumMeetingNotesSprint2.docx](https://github.com/mygroup142/group_u_142/files/11933810/DailyScrumMeetingNotesSprint2.docx)
+
+- **Daily Scrum**: Discord chat screenshotları:
+ ![Ekran Resmi 2023-07-03 09 15 30](https://github.com/mygroup142/group_u_142/assets/107813956/0b873793-c4a8-46ed-937b-f9d0b5670997)
+ ![Ekran Resmi 2023-07-03 09 15 47](https://github.com/mygroup142/group_u_142/assets/107813956/faeb0492-6a7f-45fa-b039-d85bdbac96e4)
+
+- **Sprint board update**: Sprint board screenshotları:
+  ![Ekran Resmi 2023-07-03 09 35 05](https://github.com/mygroup142/group_u_142/assets/107813956/7560732a-c624-480d-ad3f-fe2b5820d6a4)
+
+- **Ürün Durumu: Ekran görüntüleri**:
+  ![image](https://github.com/mygroup142/group_u_142/assets/107813956/9d1a680e-3b7a-42ab-b53c-796fdf910586)
+
+- **Sprint Review**: 
+Alınan kararlar: Oyun içi mekan dizaynı tamamlandı eksik olan assetler eklendi. Oyun mekaniklerinde sorun yaratan kısımlar tekrar gözden geçirilerek sorun çözüldü. Oyunda kullanılabilecek ses araştırması yetersiz kaldığı için seslerin tamamlanması 3. sprinte kalmıştır. Oyunun tamamlanan kısımlarında eksik veya hata olmaması adına, yapılan geliştirmeler 3. sprintte tekrardan kontrol edilecek.  Sprint Review katılımcıları: Şeyma Arslan, Kürşat Polatçı.
+
+- **Sprint Retrospective:**
+  - Genel toplantıların günleri ve saatleri kesin olarak kararlaştırılmıştır.
+  - Takım görev dağılımları hakkında konuşuldu.
+  - 3. sprintte daha aktif olunması gerektiği kararlaştırılmıştır.
