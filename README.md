@@ -76,4 +76,4 @@ Alınan kararlar: Oyun içi mekan dizaynı tamamlandı eksik olan assetler eklen
 - **Sprint Retrospective:**
   - Genel toplantıların günleri ve saatleri kesin olarak kararlaştırılmıştır.
   - Takım görev dağılımları hakkında konuşuldu.
-  - 3. sprintte daha aktif olunması gerektiği kararlaştırılmıştır.
+  - Son sprintte daha aktif olunması gerektiği kararlaştırılmıştır.
