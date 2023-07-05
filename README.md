@@ -19,6 +19,7 @@ Takım: unity 142
 ## Product Backlog URL
 
 - [Trello Kanban](https://trello.com/b/gxAzHN8L/unity-142)
+- [Backlog Puanlama](https://trello.com/c/xF4Rtlt8/72-backlog)
 
 ---
 
@@ -26,7 +27,7 @@ Takım: unity 142
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
-- **Puan tamamlama mantığı**: toplam proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde her sprintte 80 puan ile başlamasına karar verildi.
+- **Puan tamamlama mantığı**: toplam proje boyunca tamamlanması gereken 218 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 80 puan ile başlamasına karar verildi.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 [DailyScrumMeetingNotesSprint1](https://docs.google.com/document/d/1v3254yW0oEvVDWAaWa7pcZqHKPJNJ3O9qvyHv0TD-Yo/edit?usp=sharing)
@@ -38,7 +39,7 @@ Takım: unity 142
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Ekran Resmi 2023-06-19 01 21 28](https://github.com/mygroup142/group_u_142/assets/107813956/164ff546-6f18-454d-abb6-67ce4f65ee7b)
+![Ekran Resmi 2023-07-05 03 29 08](https://github.com/mygroup142/group_u_142/assets/107813956/b86a10ac-738f-4d26-a330-37a24767058b)
 
 
 
@@ -56,7 +57,11 @@ Alınan kararlar: Oyunda karakter tasarımında güncellemeye gidilmesi karar ve
  
 # SPRINT 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+- **Sprint Notları**: Trello üzerinde değişiklikler kaydedilmiştir. Product backlog item'lara tıklandığında detaylar okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 76 Puan
+- 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 218 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 76 ile başlaması gerektiğine karar verildi.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrumMeetingNotesSprint2.docx](https://github.com/mygroup142/group_u_142/files/11933810/DailyScrumMeetingNotesSprint2.docx)
 
@@ -65,7 +70,8 @@ Alınan kararlar: Oyunda karakter tasarımında güncellemeye gidilmesi karar ve
  ![Ekran Resmi 2023-07-03 09 15 47](https://github.com/mygroup142/group_u_142/assets/107813956/faeb0492-6a7f-45fa-b039-d85bdbac96e4)
 
 - **Sprint board update**: Sprint board screenshotları:
-  ![Ekran Resmi 2023-07-03 09 35 05](https://github.com/mygroup142/group_u_142/assets/107813956/7560732a-c624-480d-ad3f-fe2b5820d6a4)
+![Ekran Resmi 2023-07-05 03 28 02](https://github.com/mygroup142/group_u_142/assets/107813956/00077f8e-1d22-42aa-9bdf-144bfa518bda)
+
 
 - **Ürün Durumu: Ekran görüntüleri**:
   ![image](https://github.com/mygroup142/group_u_142/assets/107813956/9d1a680e-3b7a-42ab-b53c-796fdf910586)
