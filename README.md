@@ -18,35 +18,52 @@ Takım: unity 142
 
 ## Oyun Açıklaması
 
-- Evrenin sırlarını öğrenmek için yolculuğa atılmış olan Wince, kendisini bir uzay adasında bulur. Yolculuğuna devam edebilmek için portaldan geçmesi gerekmektedir fakat portalın parçaları eksik olduğundan portal çalışmamaktadır. Bu parçalar ise farklı evrenlere açılan üç portalda gizlidir. Uzay adasında diğer portallar hakkında bilgi edinerek bu parçaları merkez portal adasında birleştirmeyi düşünmektedir. Tüm parçaları topladığında ana portalı aktive ederek evrenin sırlarına giden portal da açılmış olacaktır.
+- Bu heyecan dolu ve yoğun tempolu oyunda, size bir dizi heyecan verici görev verilecek. Üç tam tarif oluşturmak için yedi malzeme kullanabilecek ve çeşitli mutfak tezgahlarıyla yemeklerinizi hazırlayabileceksiniz. Ayrıca, etkileşim kurabileceğiniz ve her seviyede yeni zorluklar yaratabileceğiniz altı farklı mutfak tezgahı bulunuyor. Menünün sol tarafındaki üç dakika içinde mümkün olduğunca çok siparişi pişirmeye çalışacak ve zamana karşı yarışırken siparişleri tamamlamak ve memnuniyetsiz müşterilerden kaçınmak için hızlı ve verimli çalışmanız gerekecek. İyi şanslar! Bu oyun size gerçek bir mutfak deneyimi sunacak ve sizi sürükleyici bir maceraya götürecek!
+
 
 ## Oyun Özellikleri
 
-- 3D macera oyunu olacak
-- Her bir portal evreninde farklı oyun mekanikleri olacak (savaş, puzzle, kaçınma ve yerleştirme)
-- Her evrende başka bir evren için toplayabileceği güçlendirmeler haritanın belirli yerlerinde rastgele bulunacak
-- Bir evrenden portalın parçasını aldığında o portal kapanacak ve bir daha o portala giremeyecek
-- Tüm parçaları uzay adasında birleştirdiğinde karakteri amacına ulaştıracak portal açılacak
+- Hızlı tempolu oynanış: Oyun hızlı bir tempoya sahiptir, siparişleri hızlı bir şekilde yetiştirmeniz gerekecek.
+- Çeşitli görevler: Farklı tarifleri tamamlamak, doğru malzemeleri kullanmak ve müşterilere hızlı bir şekilde hizmet vermek gibi çeşitli görevlerle karşılaşacaksınız.
+- Malzeme kullanımı: Yedi farklı malzemeyi kullanarak üç tam tarif oluşturabilirsiniz. Malzemeleri doğru şekilde birleştirerek lezzetli yemekler hazırlayın.
+- Farklı mutfak tezgahları: Altı benzersiz mutfak tezgahıyla etkileşimde bulunabileceksiniz. Her tezgahta farklı özellikler ve zorluklar bulunur.
+- Zaman yönetimi: Üç dakikalık süre içinde mümkün olduğunca çok siparişi yetiştirmek için zamanı etkin bir şekilde kullanmanız gerekecek.
+- Yüksek rejimler: Oyun ilerledikçe daha zorlu seviyelerle karşılaşacaksınız. Siparişler karmaşık hale gelecek ve aynı anda daha fazla müşteriyi memnun etmeniz gerekecek.
+
 
 ## Hedef Kitle
 
-- Bilgisayar oyuncuları
-- Yemek yapma oyunu severler
-- Fantastik türünde oyunlar oynamayı seven oyuncular
-- 5 yaş üzeri oyuncular
+- Yemek yapmaktan zevk alan oyuncular 
+- Hızlı tempolu oyunları sevenler
+- Rekabetçi ruha sahip oyuncular
+- Zaman yönetimi becerilerini geliştirmek isteyenler
+- Yemek pişirme ve sipariş yönetimi konularına ilgi duyanlar
+- Her yaş grubundan oyuncular
 
+   
 ## Kullanılan Unity Versiyonu
 
 - 2022.2.1f1
 
+
 ## Oynanış Biçimi
 
-- D, A, S, W ve mouse hareketleri -> Karakteri yönlendirme
+- W,A,S, D (klavye) veya Left Stick(Gamepad)=> Haraket etme
+- E (klavye) veya A (gamepad) => etkileşim
+- F (klavye) veya X (gamepad) => doğrama
+- Esc (klavye) veya Start(gamepad) => oyunu durdurma
 
+  
 ## Product Backlog URL
 
 - [Trello Kanban](https://trello.com/b/gxAzHN8L/unity-142)
 - [Backlog Puanlama](https://trello.com/c/xF4Rtlt8/72-backlog)
+
+
+## Juriye Not
+
+Oyunumuzda bazı zorluklar yaşadık, ancak hedefimiz bölüm dizaynı, karakter tasarımı, yemek çeşitliliği ve kullanıcı arayüzü gibi alanlarda iyileştirmeler yaparak daha kapsamlı bir yemek yapma oyunu sunmaktır. Profesyonel bir ekip ile çalışarak eksikliklerimizi gidermeyi ve oyunculara etkileyici bir deneyim sunmayı hedefliyoruz. İlerleyen süreçte, daha sade ve etkileyici bir bölüm dizaynı, kullanıcı dostu bir arayüz ve çeşitli karakter tasarımlarıyla oyuncuların ilgisini çekeceğiz. Yapacağımız yeniliklerle oyunumuzu özgün, kapsamlı ve çeşitlilik bakımından zengin hale getireceğiz. Azimle çalışarak oyunculara tatmin edici bir yemek yapma deneyimi sunmayı amaçlıyoruz.
+
 
 ---
 
