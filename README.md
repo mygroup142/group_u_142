@@ -44,6 +44,9 @@ Takım: unity 142
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![424dd158-8683-409e-aced-aec734f1e182](https://github.com/mygroup142/group_u_142/assets/107813956/3ac840b6-2330-45fc-872b-beaf61527cad)
+*Giriş ekranı*
+
 ![image](https://github.com/mygroup142/group_u_142/assets/107813956/61e05521-89c9-4d3d-9c11-ffc9f42679b4)
 *Karakterin taslak görüntüsü*
 
